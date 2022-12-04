@@ -860,13 +860,15 @@ def getDefaultRNNArgs():
     args = {}
 
     #These arguments define each dataset that will be used for training.
-    rootDir = '/home/fwillett/handwritingDatasetsForRelease/'
+    # rootDir = '/home/fwillett/handwritingDatasetsForRelease/'
+    rootDir = './handwritingBCIData/RNNTrainingSteps/'
     dataDirs = ['t5.2019.05.08']
     cvPart = 'HeldOutBlocks'
-
-    for x in range(len(dataDirs)):
+    # 由于磁盘容量不足，部分数据移到另一个盘，此处修改对应路径
+    for x in range(len(dataDirs)): 
         args['timeSeriesFile_'+str(x)] = rootDir+'Step2_HMMLabels/'+cvPart+'/'+dataDirs[x]+'_timeSeriesLabels.mat'
-        args['syntheticDatasetDir_'+str(x)] = rootDir+'Step3_SyntheticSentences/'+cvPart+'/'+dataDirs[x]+'_syntheticSentences/'
+        # args['syntheticDatasetDir_'+str(x)] = rootDir+'Step3_SyntheticSentences/'+cvPart+'/'+dataDirs[x]+'_syntheticSentences/'
+        args['syntheticDatasetDir_'+str(x)] = 'D:/datasets/RNNTrainingSteps/Step3_SyntheticSentences/'+cvPart+'/'+dataDirs[x]+'_syntheticSentences/'
         args['cvPartitionFile_'+str(x)] = rootDir+'trainTestPartitions_'+cvPart+'.mat'
         args['sessionName_'+str(x)] = dataDirs[x]
 

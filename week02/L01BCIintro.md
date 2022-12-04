@@ -10,7 +10,7 @@
 
 #### 2. 大脑的基本结构与功能
 例如视觉功能位于枕叶，处在后脑勺部分，额叶位于两侧，负责听觉功能等
-![](https://files.mdnice.com/user/35698/b18647de-e7bc-41c2-b2a8-6efe002b75dd.png)
+![](https://files.mdnice.com/user/35698/6b86963f-2f80-410b-9a35-8cee66b43187.png)
 ![](https://files.mdnice.com/user/35698/3aa3d101-b7f1-4ec6-b7f9-58669f6a9ca3.png)
 ![](https://files.mdnice.com/user/35698/3033fa4f-85d1-4a80-a377-4d813cbeb48f.png)
 
@@ -86,9 +86,9 @@ A small amount of radioactive material(放射性物质), called radiotracer(放�
 
 * fMRI functional magnetic resonance imaging(功能性核磁共振成像)
 a functional neuroimaging(神经影像) procedure using MRI technology that measures brain activity by detecting changes associated with blood flow(血流相关的变化). It is a non-invasive and safe technique, it doesn’t use radiation, it’s easy to use and it has excellent spatial and good temporal resolution.(具有出色的空间分辨率和良好的时间分辨率。)
-
 In the brain, haemoglobin(血红蛋白) in capillary red blood cells(毛细血管红细胞) delivers oxygen to the neurons. Activity causes more demand for oxygen, which leads to an increase of blood flow(活动导致对氧气的需求增加，从而导致血流增加). The magnetic characteristics of haemoglobin change if it is or not oxygenated(含氧的). This difference allows the MRI machine, which is a cylindrical tube with a powerful electro-magnet(电磁体), to detect which areas of the brain are active in a specific moment.
 ![](http://learn.neurotechedu.com/images/introtobci/fmri2.png)
+
 
 * fNIRS(功能性近红外光谱, functional near-infrared spectroscopy)
 Using fNIR, brain activity is measured through hemodynamic responses(血流动力学反应) associated with neuron behaviour.
