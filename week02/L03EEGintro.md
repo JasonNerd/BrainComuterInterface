@@ -86,3 +86,5 @@ use in combination with other treatments.
 1. Concussion(震荡；脑震荡). 提供一个初步的判断，以决定是否进行PET/MRI扫描. Research has shown that there are noticeable changes in EEG oscillations(振荡) after brain injury. This leads to the potential of creating **eeg diagnostics**(脑电图诊断). Current solutions like Brainscope, don’t actually predict if a concussion is present. However it does provide some preliminary insight to clinicians so that they can determine if a person should get a PET/MRI scan.
 
 2. Alzheimer’s(老年痴呆症). A growing body of evidence suggests that EEG analyses can be used in the early detect of Alzheimer’s and may even allow for the diagnosis for different dementia subtypes(诊断不同的痴呆亚型). Most of the research has been done in academic environments, however there could be the potential to develop low cost medical testing devices(低成本的医疗检测设备).
+
+3. 癫痫
